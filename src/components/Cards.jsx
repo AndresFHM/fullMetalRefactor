@@ -14,7 +14,6 @@ export class Cards extends Component {
                         </div>
                         <img src={item.imageUrl} alt={item.name} />
                         <p>{item.background}</p>
-                        
                     </div>
                 ))}
             </section>
